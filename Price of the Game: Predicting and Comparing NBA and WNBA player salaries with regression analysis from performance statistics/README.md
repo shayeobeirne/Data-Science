@@ -2,7 +2,7 @@
 
 **Overview**
 
-In this project, my partner Anna Salam and I sought out to compare the predcitive analysis methods for salaries of individuals in the NBA and WNBA, respectively. 
+In this project, my partner Anna Salam and I sought out to compare the predicitive analysis methods for salaries of individuals in the NBA and WNBA, respectively. 
 
 We hypothesized that WNBA players’ salaries are highly correlated with FG% because society rewards perfection from women. NBA players’ salaries are highly correlated with minutes played because pay is often dependent on media coverage and viewership.
 
